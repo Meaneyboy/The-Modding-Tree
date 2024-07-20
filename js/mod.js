@@ -1,8 +1,8 @@
 let modInfo = {
-	name: "The Super Mario Tree",
+	name: "The Persona 5 Tree",
 	id: "mario",
 	author: "JustAJosh",
-	pointsName: "coins",
+	pointsName: "yen",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
